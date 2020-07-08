@@ -1,2 +1,2 @@
 # Open-Bot
-Telegram-bot for finding freelance projects
+Телеграм бот для поиска проектов на фрилансе
